@@ -21,16 +21,6 @@ Two of those platforms were bought by the businesses they were built for and run
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/work-dark.svg">
-  <img alt="Selected work: MrKlyn, SOET, Faro, Quoting Studio, KafeCam, Tech Mahindra PMS, HeartWare, Nemo." src="assets/work-light.svg" width="100%">
-</picture>
-
-<sub>Open to read: <a href="https://github.com/2kLira/KafeCam">KafeCam</a> &nbsp; <a href="https://github.com/2kLira/Project-Management-System-TechMahindra">Tech Mahindra PMS</a></sub>
-
-<br>
-<br>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/record-dark.svg">
   <img alt="Record: Hack Swift Tec 2026, Enactus Changemakers 2026, More than a Hack 2027, Apple Developer Academy, Tec de Monterrey." src="assets/record-light.svg" width="100%">
 </picture>
